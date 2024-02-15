@@ -1,1 +1,1 @@
-# Beecrowd_PostgreSQL
+# Beecrowd_SQL
